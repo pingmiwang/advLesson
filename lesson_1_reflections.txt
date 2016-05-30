@@ -10,3 +10,5 @@ change?
 
 How do the diagrams help you visualize the branch structure?
 git log --graph --oneline master coins
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
